@@ -2,7 +2,16 @@
 
 ## DJU-SEC 중간고사 리포트
 
-**필요한 부분**
+샘플 보고서 .HWP 파일을 사용하여 선택한 해킹 주제에 대한 보고서를 조사하고 작성하세요.
+
+필요한 리소스를 모두 사용하되 보고서 내용을 복사하여 붙여넣지 마세요. 보고서를 자신의 말로 작성하세요. 표절검사를 받게 됩니다.
+
+샘플 코드, 이미지 또는 테이블 데이터를 복사하여 붙여넣을 수 있습니다.
+
+- [선택한 해킹 주제](https://docs.google.com/spreadsheets/d/1T2uw3SDN4kiFVDjHst2cCEcyZ32KoxYqvjzZZoQmg3g/edit?usp=sharing)
+- [hacksplaining.com](https://www.hacksplaining.com/)
+
+**리포트에 필요한 부분**
 
 1. 서론
     1. 해킹 기술에 대한 간략한 요약
